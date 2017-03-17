@@ -1,4 +1,6 @@
 .so-header {
+  float: left;
+  margin-left: 10%;
   position: fixed;
   min-width: auto;
   border-top: 3px solid #f48024;
@@ -14,4 +16,20 @@
 .-item {
   padding-left: 20px;
   display: inline;
+}
+.sidenav {
+  float: left;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+  width: 10%;
+  height: 100%;
+  position: fixed;
+  margin-top: auto;
+}
+.item1 {
+  padding-left: 10px;
+}
+.create-border {
+  box-sizing: border-box;
+  border:  3px solid #f48024;
 }
