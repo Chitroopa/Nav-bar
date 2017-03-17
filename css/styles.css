@@ -1,0 +1,17 @@
+.so-header {
+  position: fixed;
+  min-width: auto;
+  border-top: 3px solid #f48024;
+  top: 0;
+  left: 0;
+  background-color: #fafafb;
+  box-sizing: border-box;
+  width: 100%;
+}
+.-list{
+  list-style: none;
+  }
+.-item {
+  padding-left: 20px;
+  display: inline;
+}
